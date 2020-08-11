@@ -10,6 +10,9 @@ namespace GitHub_VisualStudio_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My project's VCS is git.");
+
+            Console.Read();
         }
     }
 }
